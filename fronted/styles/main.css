@@ -1,0 +1,179 @@
+.navbar-brand{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 28px;
+
+}
+.nav-item{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.nav-item.active {
+    font-weight: 600;
+    color: #fcbb3a !important;
+}
+.nav-link{
+    color:black  !important
+
+}
+.nav-link:hover{
+    color: #fcbb3a  !important;
+}
+nav {
+    background-color: skyblue;
+}
+    /* hero section */
+
+.hero-section{
+    margin-top: 25px ;
+}
+.hero-section h1{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 42px;
+}
+.hero-section p{
+    margin-top: 90px;
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-size: 15px;
+}   
+
+.hero-section .btn-cta {
+ margin-top: 50px;   
+}
+
+.hero-section .btn-cta img {
+    width: 67x;
+}
+
+.hero-section .btn{
+    border-radius: 0px 18px 18px 0px;
+    margin-left: 15;     
+}.testimonial-name{
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    color:#b0b0b0;
+}
+.box{
+    margin-top: 80px;
+    margin-left: 60px;
+}
+
+/* Akhir Hero section */
+
+/* Popular Product */
+.popular-products{
+    padding-top: 50px;
+    padding-bottom: 36px;
+    background: rgba(25, 26, 23, 0.06);
+} 
+
+.component-products{
+    margin-top: 50px;
+    margin: bottom 36px;
+    background:#ffff;
+    border-radius: 8px;
+    border: #0000;
+    padding-bottom: 15px;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.component-products:hover{
+    text-decoration: none;
+    transform: scale(1.1);
+}
+
+.products-img{
+    padding: 0.5rem;
+    border-radius: 8px 8px;
+    background:#f6fafd;
+
+    transition: all 0.3s ease;
+
+}
+.products-text{
+    font-family: 'poppins';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #171938;
+
+}
+
+.product-price{
+    font-family: 'poppins';
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+
+    color: #e98015;
+}
+/* Tutup Popular Product */
+
+/* footer */
+.footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f4f5;
+}
+.footer h2 {
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 36px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.footer h5 {
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 18px;
+
+    color: #152c5b;
+}
+
+.footer p {
+    font-family: 'poppins';
+    font-weight: 300;
+    font-size: 16px;
+
+    color: #b0b0b0;
+}
+
+.footer-small{
+    background-color: #171938;
+    text-align: center;
+
+}
+
+.footer-small p{
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 30px;
+   
+    color: #ffff;
+}
+
+.footer-small a{
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+
+    color: #fcbb3a;
+}
+/* tutup footer */
+
+
